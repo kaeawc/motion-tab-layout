@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorAccent">@color/indigo</color>
+
+    <color name="white">#fff</color>
+    <color name="offWhite">#eee</color>
+    <color name="black">#000</color>
+    <color name="transparent">#0000</color>
+
+    <color name="indigo">#4B2AE8</color>
+    <color name="blue">#aaf</color>
+    <color name="green">#afa</color>
+    <color name="red">#faa</color>
+
+</resources>
