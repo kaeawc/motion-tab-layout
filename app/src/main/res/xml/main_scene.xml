@@ -14,7 +14,7 @@
         <Constraint android:id="@id/header_layout">
             <Layout
                 android:layout_width="match_parent"
-                android:layout_height="120dp"
+                android:layout_height="180dp"
                 app:layout_constraintTop_toTopOf="parent"
                 />
             <PropertySet app:motionProgress="0" />
